@@ -1,0 +1,15 @@
+
+.timerButton {
+	display: flex;
+  	justify-content: center;
+  	
+}
+
+.card-title {
+	text-align: center;
+}
+
+.card-body {
+	min-height: 150px;
+	max-height: 150px;
+}
